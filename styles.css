@@ -1,0 +1,19 @@
+body{
+  background-color: #1b1b32;
+  font-family:Tahoma;
+  color:aliceblue;
+  width:80%;
+  margin: 10% 20%;
+}
+
+label {
+  color:orange
+}
+
+input, select {
+  font-size:20px;
+  background-color: #3b3b4f;
+  border: 1px solid #3b3b4f;
+  color: #ffffff;
+}
+
